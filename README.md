@@ -1,4 +1,4 @@
-# Intro-to-Python---Homeworks & Project
+# Intro-to-Python---Homeworks
 
 ![newlogo](https://user-images.githubusercontent.com/66108704/114313817-ce659080-9b00-11eb-8d47-61986b7fbe3f.png)
 
